@@ -10,3 +10,4 @@
 * [08-HTML5Canvas](08-HTML5Canvas/)- Day 8
 * [09-DevTools](09-DevTools/)- Day 9
 * [10-HoldShift+Checkboxes](10-HoldShift+Checkboxes/)- Day 10
+* [11-VideoPlayer](11-VideoPlayer/)- Day 11
